@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-!gdg06xkx$8d=7dy32p479jgeq)k!9%up6m#y5+c&+nt9)9gbh
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['engraved-humongous-backboned.ngrok-free.dev', 'localhost', '127.0.0.1' "*"]
+ALLOWED_HOSTS = ["*"]
 CSRF_TRUSTED_ORIGINS = ['https://engraved-humongous-backboned.ngrok-free.dev']
 
 
